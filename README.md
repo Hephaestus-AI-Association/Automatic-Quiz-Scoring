@@ -3,7 +3,7 @@
 </p>
 
 ## Presentation
-This project was created by Bocconi's **<font color="purple">Hephaestus Applied Artificial Intelligence Association</font>** during Spring 2024 period. In this repository you can find the final paper with a detailed explanation of motivations, execution and results of our research. If you wish to investigate the code we used to conduct our analysis you can find all the scripts in the present repository. For some help in navigating the repository, please have a look at [last section](#navigator).
+This project was created by Bocconi's **<font color="purple">Hephaestus Applied Artificial Intelligence Association</font>** during Spring 2024 period. In this repository you can find the final paper with a detailed explanation of motivations, execution and results of our research. If you wish to investigate the code we used to conduct our analysis you can find all the scripts in the present repository. For some help in navigating the repository, please have a look at the [last section](#navigator).
 
 ## Description
 The objective of this project is to provide a comprehensive statistical analysis of responses collecteds from the "Campionati della Cultura e del Talento", an annual competition designed for Italian high school students. This contest involves a series of 50 multiple-choice questions, covering a range of topics that vary each year. Following the administration of the quiz, teachers grade the paper answer sheets and forward the scores along with scanned copies of the completed quizzes to the hosting association. Traditionally, the association selects a random subset of these quizzes for detailed analysis to extract data and insights.
